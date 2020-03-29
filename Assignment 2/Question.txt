@@ -1,0 +1,9 @@
+Implement four queens problem using local search(Hill climbing /gradient descent)
+algorithm using use evaluation function as number of pairs of mean attacking each other.
+Run your program for at least 20 times and each time note the value of
+local minimum returned by your program. Take the snapshot of at least
+one run if you get a global minimum.
+Plot a graph of the results showing how many times your things to values}
+Innovation:
+Generalised Solution
+Continuing Program for more iteration even after receiving a local minima
